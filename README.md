@@ -10,3 +10,6 @@ Projeto referente ao curso "Manipulando o DOM" da [Digital Innovation One](https
 4. Selecione os elementos: `h1`, `button`, `footer` e `body`
 5. Se os elementos possuirem a classe `dark-mode`, modifique seus estilos. Caso contrário, volte os estilos para o original
 
+## Exemplo
+
+![Exercício Dark Mode e Light Mode](./dark-mode-exercicio.gif)
